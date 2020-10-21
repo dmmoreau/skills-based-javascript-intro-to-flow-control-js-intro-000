@@ -9,9 +9,8 @@ return "undefined"
 function teenager(age) {
 if (age === 13,14,15,16,17,18,19) {
   return 'You are a teenager!'
-} else if (age === !13,!14,!15,!16,!17,!18,!19) {
-
-} {
+} else {
+{
   return "You are not a teenager"
 }
 }
